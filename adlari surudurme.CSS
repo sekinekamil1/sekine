@@ -1,0 +1,28 @@
+.adı-ortaya-surusdur {
+  margin-left: 450px;
+}
+.sekli-surusdurme {
+  margin-left: 900px;
+}
+.qutu {
+  color: rgb(0, 123, 255);
+  width: 600px;
+  height: 150px;
+  border: 2px solid;
+  margin-left: 400px;
+}
+
+.effekt:hover {
+  transform: scale(1.1);
+}
+.effekt-2:hover {
+  transform: scale(1.1);
+}
+.border {
+  border: 5px;
+  color: blueviolet;
+}
+.sekil-border {
+  border: 5px;
+  color: rgb(0, 0, 0);
+}
